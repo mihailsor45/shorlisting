@@ -3,7 +3,7 @@ package Listing2;
 public class Listing2_10 {
     public static void main(String[] args)  {
 
-        // эти переменные иницилезируются константами
+        // эти переменные инициализируются константами
         double rds = 4; // радиус цилиндра
         double hgt = 5; // высота цилиндра
 
